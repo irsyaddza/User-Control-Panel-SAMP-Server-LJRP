@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$username = "root";  
-$password = "";      
-$database = "jawa";
+$host = "eu2.ultra-h.com";
+$username = "server_13239";  
+$password = "3vmlnreiwu";      
+$database = "server_13239_jawa";
 
 try {
     $conn = new mysqli($host, $username, $password, $database);
