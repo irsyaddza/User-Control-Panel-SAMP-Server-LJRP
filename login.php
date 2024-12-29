@@ -73,7 +73,7 @@ $conn->close();
         <div class="login-link">
             <a href="forgot-password.php">Forgot Password?</a>
             <br>
-            Don't have an account? <a href="register.html">Register here</a>
+            Don't have an account? <a href="register.php">Register here</a>
         </div>
     </div>
 </body>
