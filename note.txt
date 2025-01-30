@@ -1,0 +1,3 @@
+ALTER TABLE accounts 
+ADD COLUMN ResetCode VARCHAR(6),
+ADD COLUMN ResetCodeExpiry DATETIME;
